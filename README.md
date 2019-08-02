@@ -52,10 +52,10 @@ From the project folder, fun the following commands in the terminal =><br>
 
 ### `git init`
 
+### `heroku git:remote -a \` + encoded heroku path
+
 ### `git all .`
 
 ### `git commit -am 'upload message'`
-
-### `heroku git:remote -a \` + encoded heroku path
 
 ### `git push heroku master`
