@@ -44,6 +44,7 @@ To run the front end by itself:
 
 <br>
 <strong>Cloning:</strong><br><br>
+Clone via Git<br>
 To install dependencies: `npm install`<br>
 A script has been added to automatically install the client side dependencies as well.
 
