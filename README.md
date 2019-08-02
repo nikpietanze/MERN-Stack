@@ -54,7 +54,7 @@ From the project folder, fun the following commands in the terminal =><br>
 
 ### `git all .`
 
-### `git commit -am 'upload message'` - Version 1.0.0 was used
+### `git commit -am 'upload message'`
 
 ### `heroku git:remote -a \` + encoded heroku path
 
