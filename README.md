@@ -33,9 +33,12 @@ AppNavbar, ItemModal, etc. These are component containers that can be filled wit
 ## package.json:
 
 <strong>Testing:</strong><br><br>
-To run both front end and back end simutaneously: `npm run dev`<br>
-To run the back end by itself: `npm run server`<br>
-To run the front end by itself: `npm run client`<br><br>
+To run both front end and back end simutaneously:
+### `npm run dev`
+To run the back end by itself:
+### `npm run server`
+To run the front end by itself:
+### `npm run client`
 <strong>Cloning:</strong><br><br>
 To install dependencies: `npm install`<br>
 A script has been added to automatically install the client side dependencies as well.
