@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Nik:Ababahqp09*@tanze-oxvly.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "TanZe_jwtSecret"
+}
