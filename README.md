@@ -39,6 +39,7 @@ To run the back end by itself:
 ### `npm run server`
 To run the front end by itself:
 ### `npm run client`
+<br>
 <strong>Cloning:</strong><br><br>
 To install dependencies: `npm install`<br>
 A script has been added to automatically install the client side dependencies as well.
