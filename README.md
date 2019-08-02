@@ -13,7 +13,7 @@ MongoDB (database) is being hosted on an AWS server via https://cloud.mongodb.co
 Server.js is the main server file =><br><br>
 config folder houses various keys and secure data =><br><br>
 models folder houses all of the Schema for the database datasets =><br>
-routes folder houses all of the front end files for client side.<br><br>
+routes folder houses all of the front end files for client side.<br>
 routes/api folder houses all of the processing files for the various api calls to various models (GET, POST, DELETE, etc).
 
 ## Redux:
@@ -25,18 +25,18 @@ Reducers are essentially pieces of data that you would want to pass throughout y
 Authentication Data, Data Page Tokens, Lists of data, etc.<br><br>
 These extra reducers would get imported into the reducers/index.js file and then added to the list of exported reducers =><br><br>
 Individual reducers (itemReducer.js) houses the actual state for the data, and checks the actions from the action file =><br>
-action file will dispatch our data (payload) from the server to the reducer, which then transports that state data to React to display.<br>
+action file will dispatch our data (payload) from the server to the reducer, then transports that state data to React.<br>
 actions/types.js is a constants folder that houses const string variables for various actions (GET, ADD, DELETE, etc).<br><br>
 There are also Redux containers inside the components folder. Ex: =><br>
 AppNavbar, ItemModal, etc. These are component containers that can be filled with various information / data.
 
 ## package.json:
 
-Testing:<br><br>
+<strong>Testing:</strong><br><br>
 To run both front end and back end simutaneously: `npm run dev`<br>
 To run the back end by itself: `npm run server`<br>
 To run the front end by itself: `npm run client`<br><br>
-Cloning:<br><br>
+<strong>Cloning:</strong><br><br>
 To install dependencies: `npm install`<br>
 A script has been added to automatically install the client side dependencies as well.
 
