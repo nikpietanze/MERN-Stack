@@ -1,5 +1,5 @@
-<!-- Tutorial Based on Traversy Media Mern Stack Walkthrough --><br>
-<!-- https://www.youtube.com/watch?v=5yTazHkDR4o --><br>
+Tutorial Based on Traversy Media Mern Stack Walkthrough<br>
+https://www.youtube.com/watch?v=5yTazHkDR4o<br>
 
 ## Front End:
 
