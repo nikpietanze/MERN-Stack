@@ -31,11 +31,17 @@ AppNavbar, ItemModal, etc. These are component containers that can be filled wit
 
 <strong>Testing:</strong><br><br>
 To run both front end and back end simutaneously:
+
 ### `npm run dev`
+
 To run the back end by itself:
+
 ### `npm run server`
+
 To run the front end by itself:
+
 ### `npm run client`
+
 <br>
 <strong>Cloning:</strong><br><br>
 To install dependencies: `npm install`<br>
